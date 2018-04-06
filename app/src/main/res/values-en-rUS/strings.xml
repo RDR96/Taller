@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="llave">AppLife</string>
-    <string name="box1">configuration</string>
     <string name="box3">Favorites</string>
     <string name="box1">Configuration</string>
 </resources>
