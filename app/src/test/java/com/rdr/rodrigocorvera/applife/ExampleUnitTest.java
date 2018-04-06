@@ -1,4 +1,4 @@
-package com.rdr.rodrigocorvera.labo3;
+package com.rdr.rodrigocorvera.applife;
 
 import org.junit.Test;
 

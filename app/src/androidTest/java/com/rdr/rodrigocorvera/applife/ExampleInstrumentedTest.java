@@ -1,4 +1,4 @@
-package com.rdr.rodrigocorvera.labo3;
+package com.rdr.rodrigocorvera.applife;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.rdr.rodrigocorvera.labo3", appContext.getPackageName());
+        assertEquals("com.rdr.rodrigocorvera.applife", appContext.getPackageName());
     }
 }
