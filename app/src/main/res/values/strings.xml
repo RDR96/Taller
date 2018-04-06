@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">AppLife</string>
+    <string name="llave">AppLife</string>
+    <string name="box1" translatable="true">Configuration</string>
+    <string name="box2">Profile</string>
+    <string name="box3">Favorites</string>
+    <string name="box4">Income</string>
+    <string name="box5">budget</string>
+    <string name="box6">Outflow</string>
 </resources>

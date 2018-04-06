@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="llave">AppLife</string>
+    <string name="box1">Configuración</string>
+    <string name="box3">Favoritos</string>
+    <string name="box2">Perfil</string>
+    <string name="box5">Presupuesto</string>
+    <string name="box6">Egresos</string>
+    <string name="box4">Ingresos</string>
+</resources>
