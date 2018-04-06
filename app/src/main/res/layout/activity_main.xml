@@ -14,6 +14,10 @@
             android:layout_rowWeight="1"
             android:orientation="vertical"
             android:gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="4dp"
+            android:background="#0091ea"
             >
 
             <ImageView
@@ -23,7 +27,7 @@
                 />
 
             <TextView
-                android:text="@string/box1"
+                android:text="configuración"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="18sp"
@@ -34,11 +38,15 @@
 
 
     <LinearLayout
-        android:padding="0px"
+
         android:layout_columnWeight="1"
         android:layout_rowWeight="1"
         android:orientation="vertical"
         android:gravity="center"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="4dp"
+        android:background="#ff1744"
         >
 
         <ImageView
@@ -58,9 +66,13 @@
     </LinearLayout>
 
     <LinearLayout
-        android:padding="0px"
+
         android:layout_columnWeight="1"
         android:layout_rowWeight="1"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="4dp"
+        android:background="#fdd835"
         android:orientation="vertical"
         android:gravity="center"
         >
@@ -82,10 +94,14 @@
     </LinearLayout>
 
     <LinearLayout
-        android:padding="0px"
+
         android:layout_columnWeight="1"
         android:layout_rowWeight="1"
         android:orientation="vertical"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="4dp"
+        android:background="#76ff03"
         android:gravity="center"
         >
 
@@ -106,8 +122,14 @@
     </LinearLayout>
     <LinearLayout
         android:padding="0px"
+
         android:layout_columnWeight="1"
         android:layout_rowWeight="1"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:background="#ab47bc"
         android:orientation="vertical"
         android:gravity="center"
         >
@@ -129,9 +151,15 @@
     </LinearLayout>
     <LinearLayout
         android:padding="0px"
+
         android:layout_columnWeight="1"
         android:layout_rowWeight="1"
         android:orientation="vertical"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:background="#a7ffeb"
         android:gravity="center"
         >
 
@@ -142,7 +170,7 @@
             />
 
         <TextView
-            android:text="@string/box5"
+            android:text="@string/box6"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="18sp"
